@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+}
+
+
+
+h1 {
+
+  font-family: "Times New Roman",Georgia,serif;
+  font-size: 1.2.em; 
+  text-align: 
+  text-decoration: blink;
+  color: blue;
+  background-color: 
+
+}
+
+h2 {      
+
+  font-family: "Times New Roman",Georgia;
+  font-size: 1.2.em;    
+  text-align: 
+  text-decoration: blink;
+  color: #C0C0C0;
+
+}
+
+image {
+
+  width: 100px;
+}
+
+input {
+
+  border-radius: 10px 100px / 120px;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+label {
+    display: block;
+    font: .9rem 'Fira Sans', sans-serif;
+}
+
+input[type='submit'],
+label {
+    margin-top: 1rem;
+}
